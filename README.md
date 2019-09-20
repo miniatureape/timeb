@@ -6,4 +6,4 @@ Also logs to a file in your home directory for fun. Should work on mac / ubuntu 
 
 ## Usage
 
-`./timeb 5 research notify send`
+`./timeb 5 research notify send command`
